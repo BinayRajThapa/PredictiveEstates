@@ -1,0 +1,40 @@
+.r-container {
+  overflow: hidden;
+  position: relative;
+  background-color: rgb(210, 210, 210);
+}
+
+.r-head {
+  margin-bottom: 2rem;
+}
+
+.swiper-horizontal {
+  overflow: visible;
+}
+
+.r-buttons button {
+  font-size: 1.2rem;
+  padding: 0.2rem 0.8rem;
+  color: orange;
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.r-buttons > :nth-child(1) {
+  background-color: #eeeeff;
+}
+
+.r-buttons > :nth-child(2) {
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+}
+
+@media (max-width: 640) {
+  .r-head {
+    align-items: center !important;
+  }
+
+  .r-buttons {
+    position: initial;
+  }
+}
