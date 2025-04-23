@@ -32,5 +32,50 @@ An intelligent real estate platform built with the MERN stack and powered by a m
 
 ---
 
+## 📸 Application Screenshots
 
+| Feature | Screenshot |
+|---------|-----------|
+| **Homepage** | ![Homepage](./images/homepage.jpg) |
+| **Location** | ![location](./images/location.jpg) |
+| **Image Upload** | ![Image Upload](./images/imageupload.jpg) |
+| **Basic Details** | ![Basic Details](./images/basicdetails.jpg) |
+| **Facilities** | ![Facilities](./images/facilities.jpg) |
+| **Property Page** | ![Property Page](./images/propertypage.jpg) |
+| **Single Property Page** | ![Single Property Page](./images/singlepropertypage.jpg) |
+| **Book Visit** | ![Book Visit](./images/bookvisit.jpg) |
+| **Predict Price Page** | ![Predict Price Page](./images/predictpricepage.jpg) |
 
+---
+
+## 🧠 Authors
+
+- Binaya Raj Thapa  
+- Shashwat Khadka 
+- Shubin Pokhrel 
+- Siddhartha Lal Pradhan
+
+---
+
+### 🔗 Download the Trained Model
+
+[Click here to download model.pkl](https://drive.google.com/drive/folders/1tAmlSpjKBcY9oEwv51xBAQBfgDPpWlyO?usp=sharing)
+
+After downloading, place it in the `MachineLearning/` and `server/` folder.
+
+---
+
+## 📌 Future Enhancements
+
+- Real-time data integration for predictions
+- Improved UI/UX for better engagement
+- Advanced filtering for properties
+- Payment integration
+- Native mobile apps (iOS & Android)
+
+---
+
+## Contributing 🤝
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+---
